@@ -152,6 +152,7 @@ const PizzaImg = styled.img`
   border-bottom-left-radius: 200px;
   @media screen and (max-width: 376px) {
     width: 375px;
+    border-bottom-left-radius: 20px;
     height: 100%;
   }
 `;
